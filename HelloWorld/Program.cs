@@ -1,15 +1,3 @@
-﻿public class Colculate
-{
-    public int Sum(int x,int y)
-    {
+﻿
+    Console.WriteLine("Hello World");
 
-    }
-}
-
-public class B
-{
-    public static void Main()
-    {
-       
-    }
-}
